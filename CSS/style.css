@@ -1,0 +1,22 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 375px;
+  margin: 80px auto 0;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
